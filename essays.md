@@ -8,6 +8,4 @@ title: Essays
 
 ---
 
-## 语体文
-
-- [俞允强老师二三事](./essays/stories with radio.md)
+- [我与收音机二三事](./essays/stories with radio.md)
