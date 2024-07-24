@@ -26,4 +26,7 @@ For full list of my papers, see the below, also check [inspire](https://inspireh
 , **Xi-Jing Wang**, Bin Wang, Jian-Pin Wu. <br>Published in: [Phys.Rev.D 108, 064013 (2023)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.064013). arXiv: [2306.10459](https://arxiv.org/abs/2306.10459).
 
 - <span style="color:blue;">*Shadow revisiting and weak gravitational lensing with Chern-Simons modification*</span>,<br>Yuan Meng, Xiao-Mei Kuang
-, **Xi-Jing Wang**, Bin Wang, Jian-Pin Wu. <br>Published in: [Phys.Lett.B (2023) 137940)](https://www.sciencedirect.com/science/article/pii/S0370269323002745?via%3Dihub). arXiv: [2305.04210](https://arxiv.org/abs/2305.04210).
+, **Xi-Jing Wang**, Jian-Pin Wu. <br>Published in: [Phys.Lett.B (2023) 137940)](https://www.sciencedirect.com/science/article/pii/S0370269323002745?via%3Dihub). arXiv: [2305.04210](https://arxiv.org/abs/2305.04210).
+
+- <span style="color:blue;">*Rings and images of Horndeski hairy black hole illuminated by various thin accretions*</span>,<br>**Xi-Jing Wang**, Xiao-Mei Kuang
+, Yuan Meng, Bin Wang, Jian-Pin Wu. <br>Published in: [Phys.Rev.D 107, 124052 (2023)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.124052). arXiv: [2304.10015](https://arxiv.org/abs/2304.10015).
