@@ -10,4 +10,4 @@ title: Essays
 
 ## 语体文
 
-- [俞允强老师二三事](./essays/yunqiang_yu.md)
+- [俞允强老师二三事](./essays/stories with radio.md)
