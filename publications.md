@@ -7,7 +7,7 @@ title: Publications
 
 
 
-For full list of my papers, see the below. Also check [inspirehep](https://inspirehep.net/authors/1899373?ui-citation-summary=true).
+For full list of my papers, see the below., also check [inspirehep](https://inspirehep.net/authors/1899373?ui-citation-summary=true).
 
 # My Papers
 
