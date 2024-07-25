@@ -53,6 +53,18 @@ December 6, 2021. Room 301, Physics Building, Yangzhou University.
 December 13, 2022. Photoed by phone in Shijiazhuang. We can see the Orion (猎户座) and the Pleiades (昴星团).
 </center>  
 
+<br>
+
+<center>
+<div class="second">
+<img src="/images/hobbies/star/star--dream1.jpg">
+<img src="/images/hobbies/star/star--dream2.jpg">
+</div>
+</center>
+
+<center>My dream astronomical telescope. Will anyone give them to me?🤔</center>
+
+
 <hr>
 
 ## Listen to the radio
