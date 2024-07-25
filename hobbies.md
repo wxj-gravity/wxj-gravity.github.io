@@ -17,7 +17,7 @@ title: Hobbies
 <center>
 
 <center>
-Taken on December 6th, 2021 in Room 301 of Yangzhou University
+December 6, 2021. Room 301, Physics Building, Yangzhou University.
 <center>
   
 <div class="third">
@@ -27,7 +27,7 @@ Taken on December 6th, 2021 in Room 301 of Yangzhou University
 </div>
 
 <center>
-Taken on October 29th, 2022 on the rooftop of the Physics Building at Yangzhou University
+October 29, 2022. Roof of Physics Building, Yangzhou University.
 <center>
 
   
