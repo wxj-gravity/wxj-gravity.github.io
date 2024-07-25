@@ -35,7 +35,7 @@ October 29, 2022. Roof of Physics Building, Yangzhou University. Photoed by phon
 
 ## Listen to the radio
 
-*I love the stars when I was young.*
+*I love the stars when I was young.hhhhhhhh*
 
 <center>
 <img src="/images/hobbies/star/star--telescope--1.jpg" width="240" height="320">
