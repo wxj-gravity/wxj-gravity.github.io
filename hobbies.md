@@ -12,6 +12,7 @@ title: Hobbies
 
 *I love the stars when I was young.*
 
+
 <center>
 <img src="/images/hobbies/star/star--telescope--1.jpg" width="240" height="320">
 </center>
@@ -45,13 +46,17 @@ December 6, 2021. Room 301, Physics Building, Yangzhou University.
 >
 > ——《Yesterday Once More》
 
+See the stories with the [radios](https://wxj-gravity.github.io/essays/stories%20with%20radio/index.html).
+
 <center>
-<img src="/images/hobbies/radio/radio--1.jpg" width="240" height="320">
+<img src="/images/hobbies/radio/radio--1.jpg" width="360" height="480">
 </center>
 
 <center>
 TECSUN R-9700DX. Song Dynasty City Sports Park, Yangzhou.
 </center>
+
+<br>
 
 <center>
 <img src="/images/hobbies/radio/radio--untitled.jpg" width="240" height="320">
