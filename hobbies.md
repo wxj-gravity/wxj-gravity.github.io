@@ -10,7 +10,12 @@ title: Hobbies
 
 ## See the stars
 
-*I love the stars when I was young.*
+When I was young
+>I'd listen to the radio
+>Waiting for my favorite songs
+>
+> ——《Yesterday Once More》
+
 
 <center>
 <img src="/images/hobbies/star/star--telescope--1.jpg" width="240" height="320">
