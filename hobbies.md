@@ -46,15 +46,19 @@ December 6, 2021. Room 301, Physics Building, Yangzhou University.
 > ——《Yesterday Once More》
 
 <center>
-<img src="/images/hobbies/star/star--telescope--1.jpg" width="240" height="320">
+<img src="/images/hobbies/radio/radio--1.jpg" width="240" height="320">
 </center>
-
 
 <center>
-December 6, 2021. Room 301, Physics Building, Yangzhou University.
+TECSUN R-9700DX. Song Dynasty City Sports Park, Yangzhou.
 </center>
 
+<center>
+<img src="/images/hobbies/radio/radio--untitled.jpg" width="240" height="320">
+</center>
 
-
+<center>
+Untitled.
+</center>
 
 
