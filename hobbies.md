@@ -55,7 +55,7 @@ December 13, 2022. Photoed by phone in Shijiazhuang. We can see the Orion (猎�
 >
 > ——《Yesterday Once More》
 
-See the stories with the [radios](https://wxj-gravity.github.io/essays/stories%20with%20radio/index.html).
+See my story with the [radios](https://wxj-gravity.github.io/essays/stories%20with%20radio/index.html).
 
 <center>
 <img src="/images/hobbies/radio/radio--1.jpg" width="480" height="640">
