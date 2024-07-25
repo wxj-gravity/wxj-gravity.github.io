@@ -57,12 +57,12 @@ December 13, 2022. Photoed by phone in Shijiazhuang. We can see the Orion (猎�
 
 <center>
 <div class="second">
-<img src="/images/hobbies/star/star--dream1.jpg">
-<img src="/images/hobbies/star/star--dream2.jpg">
+<img src="/images/hobbies/star/star--dream1.jpg" width="240" height="320">
+<img src="/images/hobbies/star/star--dream2.jpg" width="240" height="320">
 </div>
 </center>
 
-<center>My dream astronomical telescope. Will anyone give them to me?🤔</center>
+<center>My dream astronomical telescopes. Will anyone give them to me?😋</center>
 
 
 <hr>
