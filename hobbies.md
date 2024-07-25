@@ -30,9 +30,9 @@ December 6, 2021. Room 301, Physics Building, Yangzhou University.
 <center>
 October 29, 2022. Roof of Physics Building, Yangzhou University. Photoed by phone connected with telescope.
 
-
----
 <br>
+---
+
 ## Listen to the radio
 
 <div class="third">
