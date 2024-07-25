@@ -41,6 +41,21 @@ For full list of my papers, see the below, also check [inspire](https://inspireh
 
 - <span style="color:blue;">*A novel holographic quantum phase transition and butterfly velocity*</span>,<br>Guoyang Fu, **Xi-Jing Wang**, Peng Liu, Dan Zhang, Xiao-Mei Kuang, Jian-Pin Wu. <br>Published in: [JHEP 04 (2022) 148](https://link.springer.com/article/10.1007/JHEP04(2022)148). arXiv: [2202.01495](https://arxiv.org/abs/2202.01495).
 
+- <span style="color:blue;">*Alternating current conductivity and superconducting properties of a holographic effective model with broken translations*</span>,<br>Yan Liu, **Xi-Jing Wang**, Jian-Pin Wu, Xin Zhang. <br>Published in: [Eur.Phys.J.C 82 (2022) 5, 478]([https://link.springer.com/article/10.1140/epjc/s10052-023-11918-9](https://link.springer.com/article/10.1140/epjc/s10052-022-10416-8)). arXiv: [2201.06065](https://arxiv.org/abs/2201.06065).
+
+
+
+## 2021
+
+- <span style="color:blue;">*Holographic phonons by gauge-axion coupling*</span>,<br>**Xi-Jing Wang**, Wei-Jia Li. <br>Published in: [JHEP 07 (2021) 131](https://link.springer.com/article/10.1007/JHEP07(2021)131). arXiv: [2105.07225](https://arxiv.org/abs/2105.07225).
+
+
+## 2019
+
+- <span style="color:blue;">*AC charge transport in holographic Horndeski gravity*</span>,<br>**Xi-Jing Wang**, Hai-Shan Liu, Wei-Jia Li. <br>Published in: [Eur.Phys.J.C 79 (2019) 11, 932](https://link.springer.com/article/10.1140/epjc/s10052-019-7460-6). arXiv: [1909.00224](https://arxiv.org/abs/1909.00224).
+
+
+
 
 
 
