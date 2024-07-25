@@ -14,7 +14,7 @@ title: Hobbies
 
 <center>
 <img src="/images/hobbies/star/star--telescope--1.jpg" width="240" height="320">
-
+<center>
 
 <center>
 December 6, 2021. Room 301, Physics Building, Yangzhou University.
@@ -39,6 +39,7 @@ October 29, 2022. Roof of Physics Building, Yangzhou University. Photoed by phon
 
 <center>
 <img src="/images/hobbies/star/star--telescope--1.jpg" width="240" height="320">
+<center>
 
 
 <center>
