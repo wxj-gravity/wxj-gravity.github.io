@@ -36,4 +36,4 @@ title: stories with radio
 
 享受广播，享受电波。    
 
-                                                                                              2020.03.19
+<p align="right">2020年03月19日</p>
