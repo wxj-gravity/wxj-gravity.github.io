@@ -19,7 +19,7 @@ title: Hobbies
 </div>
 </center>
 
-<center>2008. Roof of Physics Building, Yangzhou University. Photoed by phone connected with telescope.</center>
+<center>2008 in my hometown (Sorry, I forget the exact time). Roof of Physics Building, Yangzhou University. Photoed by phone connected with telescope.</center>
 
 <br>
 
