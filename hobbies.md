@@ -26,9 +26,7 @@ October 29, 2022. Roof of Physics Building,
 <hr>
 
 ## Listen to the radio
-
-
-
+## Listen to the radio
 
 *I love the stars when I was young.*
 
