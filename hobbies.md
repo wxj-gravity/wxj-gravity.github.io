@@ -31,8 +31,9 @@ December 6, 2021. Room 301, Physics Building, Yangzhou University.
 </div>
 </center>
 
-  
 <center>October 29, 2022. Roof of Physics Building, Yangzhou University. Photoed by phone connected with telescope.</center>
+
+<br>
 
 <center>
 <img src="/images/hobbies/star/star--XWZZ.jpg" width="480" height="480">
