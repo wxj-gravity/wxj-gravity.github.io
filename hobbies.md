@@ -27,12 +27,13 @@ December 6, 2021. Room 301, Physics Building, Yangzhou University.
 </div>
 
 October 29, 2022. Roof of Physics Building, Yangzhou University. Photoed by phone connected with telescope.
+<center>
 
 <hr>
 
 ## Listen to the radio
 
-*I love the stars when I was young.aaaaa*
+*I love the stars when I was young.ssss*
 
 
 <img src="/images/hobbies/star/star--telescope--1.jpg" width="240" height="320">
