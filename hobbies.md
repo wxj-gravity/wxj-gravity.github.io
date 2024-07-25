@@ -14,8 +14,8 @@ title: Hobbies
 
 <center>
 <div class="third">
-<img src="/images/hobbies/star/star--F70076--1.jpg">
-<img src="/images/hobbies/star/star--moon2008--1.jpg">
+<img src="/images/hobbies/star/star--F70076.jpg">
+<img src="/images/hobbies/star/star--moon2008.jpg">
 </div>
 </center>
 
