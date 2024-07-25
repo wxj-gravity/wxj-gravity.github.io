@@ -6,7 +6,7 @@ title: Hobbies
 
 # Hobbies
 
-For full list of my papers, see the below, also check inspire.
+<hr>
 
 ## See the stars
 
