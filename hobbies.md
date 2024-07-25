@@ -39,7 +39,7 @@ December 6, 2021. Room 301, Physics Building, Yangzhou University.
 </center>
 
 <center>
-December 13, 2022. Photoed by phone in Shijiazhuang.    
+December 13, 2022. Photoed by phone in Shijiazhuang. We can see the Orion (猎户座) and the Pleiades (昴星团).
 </center>  
 
 <hr>
