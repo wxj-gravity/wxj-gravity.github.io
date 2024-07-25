@@ -40,7 +40,7 @@ October 29, 2022. Roof of Physics Building, Yangzhou University. Photoed by phon
 <img src="/images/speech1.JPG">
 <img src="/images/speech3.JPG">
 </div>
-There must be **something truly magical** about standing on stage to give a fantastic speech, which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. 
+<br>There must be **something truly magical** about standing on stage to give a fantastic speech, which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. 
 
 
 
