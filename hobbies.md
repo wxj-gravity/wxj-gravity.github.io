@@ -19,7 +19,7 @@ title: Hobbies
 </div>
 </center>
 
-<center>2008 in my hometown (Sorry, I forget the exact time). The telescope is F70076, and it is like a toy. But it broadened my horizons.</center>
+<center>2008 in my hometown (Sorry, I forget the exact time). The telescope is F70076. It is like a toy, but it broaden my horizons.</center>
 
 <br>
 
