@@ -19,7 +19,7 @@ title: Hobbies
 <center>
 December 6, 2021. Room 301, Physics Building, Yangzhou University.    
 </center>   
- 
+<br>
 <center>
 <div class="third">
 <img src="/images/hobbies/star/star--friends--1.jpg">
