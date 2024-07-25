@@ -49,11 +49,11 @@ December 6, 2021. Room 301, Physics Building, Yangzhou University.
 See the stories with the [radios](https://wxj-gravity.github.io/essays/stories%20with%20radio/index.html).
 
 <center>
-<img src="/images/hobbies/radio/radio--1.jpg" width="360" height="480">
+<img src="/images/hobbies/radio/radio--1.jpg" width="480" height="640">
 </center>
 
 <center>
-TECSUN R-9700DX. Song Dynasty City Sports Park, Yangzhou.
+June 19, 2021. TECSUN R-9700DX. Song Dynasty City Sports Park, Yangzhou.
 </center>
 
 <br>
