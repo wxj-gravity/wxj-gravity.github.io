@@ -12,6 +12,16 @@ title: Hobbies
 
 *I love the stars when I was a junior high school student .*
 
+<center>
+<div class="third">
+<img src="/images/hobbies/star/star--F70076--1.jpg">
+<img src="/images/hobbies/star/star--moon2008--1.jpg">
+</div>
+</center>
+
+<center>2008. Roof of Physics Building, Yangzhou University. Photoed by phone connected with telescope.</center>
+
+<br>
 
 <center>
 <img src="/images/hobbies/star/star--telescope--1.jpg" width="240" height="320">
