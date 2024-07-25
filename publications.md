@@ -30,3 +30,20 @@ For full list of my papers, see the below, also check [inspire](https://inspireh
 
 - <span style="color:blue;">*Rings and images of Horndeski hairy black hole illuminated by various thin accretions*</span>,<br>**Xi-Jing Wang**, Xiao-Mei Kuang
 , Yuan Meng, Bin Wang, Jian-Pin Wu. <br>Published in: [Phys.Rev.D 107, 124052 (2023)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.124052). arXiv: [2304.10015](https://arxiv.org/abs/2304.10015).
+
+## 2022
+
+- <span style="color:blue;">*Holographic superfluid with gauge–axion coupling*</span>,<br>Yan Liu, **Xi-Jing Wang**, Jian-Pin Wu, Xin Zhang. <br>Published in: [Eur.Phys.J.C 83 (2023) 8, 748](https://link.springer.com/article/10.1140/epjc/s10052-023-11918-9). arXiv: [2212.01986](https://arxiv.org/abs/2212.01986).
+
+- <span style="color:blue;">*Transport properties in the Horndeski holographic two-currents model*</span>,<br>Dan Zhang, Guoyang Fu, **Xi-Jing Wang**, Qiyuan Pan, Jian-Pin Wu. <br>Published in: [Eur.Phys.J.C 83 (2023) 4, 316](https://link.springer.com/article/10.1140/epjc/s10052-023-11444-8). arXiv: [2211.07074](https://arxiv.org/abs/2211.07074).
+
+- <span style="color:blue;">*Transport properties of a 3-dimensional holographic effective theory with gauge-axion coupling*</span>,<br>Yi-Lin Li, **Xi-Jing Wang**, Guoyang Fu, Jian-Pin Wu. <br>Published in: [Phys.Lett.B 829 (2022) 137124](https://www.sciencedirect.com/science/article/pii/S0370269322002581?via%3Dihub). arXiv: [2205.00227](https://arxiv.org/abs/2205.00227).
+
+- <span style="color:blue;">*A novel holographic quantum phase transition and butterfly velocity*</span>,<br>Guoyang Fu, **Xi-Jing Wang**, Peng Liu, Dan Zhang, Xiao-Mei Kuang, Jian-Pin Wu. <br>Published in: [JHEP 04 (2022) 148](https://link.springer.com/article/10.1007/JHEP04(2022)148). arXiv: [2202.01495](https://arxiv.org/abs/2202.01495).
+
+
+
+
+
+
+
