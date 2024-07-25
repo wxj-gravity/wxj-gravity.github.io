@@ -13,13 +13,13 @@ title: Hobbies
 *I love the stars when I was a junior high school student .*
 
 <center>
-<div class="third">
+<div class="second">
 <img src="/images/hobbies/star/star--F70076.jpg">
 <img src="/images/hobbies/star/star--moon2008.jpg">
 </div>
 </center>
 
-<center>2008 in my hometown (Sorry, I forget the exact time). Roof of Physics Building, Yangzhou University. Photoed by phone connected with telescope.</center>
+<center>2008 in my hometown (Sorry, I forget the exact time). The telescope is F70076, and it is like a toy.</center>
 
 <br>
 
