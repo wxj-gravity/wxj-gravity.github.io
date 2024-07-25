@@ -6,7 +6,7 @@ title: Hobbies
 
 # Hobbies
 
-<hr>
+---
 
 ## See the stars
 
@@ -31,7 +31,7 @@ title: Hobbies
 <br>October 29, 2022. Roof of Physics Building, Yangzhou University. Photoed by phone connected with telescope.
 <center>
 
-  
+---
 
 
 ## Listen to the radio
