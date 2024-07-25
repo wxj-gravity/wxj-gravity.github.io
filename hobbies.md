@@ -12,7 +12,7 @@ title: Hobbies
 
 *I love the stars when I was young.*
 
-
+<center>
 <img src="/images/hobbies/star/star--telescope--1.jpg" width="240" height="320">
 
 
