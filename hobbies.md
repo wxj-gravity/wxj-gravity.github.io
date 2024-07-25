@@ -10,11 +10,14 @@ title: Hobbies
 
 ## See the stars
 
-I love the stars when I was young.
+*I love the stars when I was young.*
 
-<img src="/images/hobbies/star/star--telescope--1.jpg">
+<center>
+<img src="/images/hobbies/star/star--telescope--1.jpg" width="360" height="480">
 Taken on December 6th, 2021 in Yangzhou University
+<center>
 
+  
 <div class="third">
 <img src="/images/hobbies/star/star--telescope--1.jpg">
 <img src="/images/hobbies/star/star--friends--1.jpg">
