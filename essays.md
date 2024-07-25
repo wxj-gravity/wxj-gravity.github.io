@@ -4,7 +4,7 @@ permalink: /essays/index.html
 title: Essays
 ---
 
-# 非学术随笔
+# 流水账
 
 ---
 
