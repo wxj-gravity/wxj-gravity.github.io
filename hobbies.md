@@ -12,10 +12,14 @@ title: Hobbies
 
 *I love the stars when I was young.*
 
-![]<img src="/images/hobbies/star/star--telescope--1.jpg" width="240" height="320">
+<center>
+<img src="/images/hobbies/star/star--telescope--1.jpg" width="240" height="320">
+</center>
 
-![]December 6, 2021. Room 301, Physics Building, Yangzhou University.
-
+<center>
+December 6, 2021. Room 301, Physics Building, Yangzhou University.    
+</center>   
+ 
 <center>
 <div class="third">
 <img src="/images/hobbies/star/star--friends--1.jpg">
@@ -29,7 +33,7 @@ title: Hobbies
 
 ## Listen to the radio
 
-*I love the stars when I was young.*
+*I love the stars when I was young.555555*
 
 <center>
 <img src="/images/hobbies/star/star--telescope--1.jpg" width="240" height="320">
