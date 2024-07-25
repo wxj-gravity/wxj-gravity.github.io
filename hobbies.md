@@ -42,7 +42,7 @@ title: Hobbies
 
 <center>
 December 6, 2021. Room 301, Physics Building, Yangzhou University.
-</center>center>
+</center>
 
 
 
