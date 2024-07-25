@@ -17,7 +17,7 @@ title: Hobbies
 <center>
 
 <center>
-<br>December 6, 2021. Room 301, Physics Building, Yangzhou University.
+December 6, 2021. Room 301, Physics Building, Yangzhou University.
 <center>
 
 <br>
@@ -28,7 +28,7 @@ title: Hobbies
 </div>
 
 <center>
-<br>October 29, 2022. Roof of Physics Building, Yangzhou University. Photoed by phone connected with telescope.
+October 29, 2022. Roof of Physics Building, Yangzhou University. Photoed by phone connected with telescope.
 <center>
 
 ---
