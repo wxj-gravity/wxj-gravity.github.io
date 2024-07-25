@@ -34,7 +34,7 @@ October 29, 2022. Roof of Physics Building, Yangzhou University. Photoed by phon
 
 <hr>
 
-## Listen to the radio
+## See the stars
 
 <div class="third">
 <img src="/images/prelection1.JPG">
