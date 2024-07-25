@@ -10,12 +10,7 @@ title: Hobbies
 
 ## See the stars
 
-When I was young
->I'd listen to the radio
->Waiting for my favorite songs
->
-> ——《Yesterday Once More》
-
+*I love the stars when I was young.*
 
 <center>
 <img src="/images/hobbies/star/star--telescope--1.jpg" width="240" height="320">
@@ -42,7 +37,11 @@ December 6, 2021. Room 301, Physics Building, Yangzhou University.
 
 ## Listen to the radio
 
-*I love the stars when I was young.555555*
+>When I was young
+>I'd listen to the radio
+>Waiting for my favorite songs
+>
+> ——《Yesterday Once More》
 
 <center>
 <img src="/images/hobbies/star/star--telescope--1.jpg" width="240" height="320">
