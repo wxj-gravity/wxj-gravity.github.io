@@ -10,7 +10,7 @@ title: Hobbies
 
 ## See the stars
 
-*I love the stars when I was young.*
+*I love the stars when I was a junior high school student .*
 
 
 <center>
