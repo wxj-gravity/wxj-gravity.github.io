@@ -12,13 +12,13 @@ title: Hobbies
 
 *I love the stars when I was young.*
 
-<center>
-<img src="/images/hobbies/star/star--telescope--1.jpg" width="240" height="320">
-<center>
 
-<center>
+<img src="/images/hobbies/star/star--telescope--1.jpg" width="240" height="320">
+
+
+
 December 6, 2021. Room 301, Physics Building, Yangzhou University.
-<center>
+
 
 <br>
 <div class="third">
@@ -33,16 +33,16 @@ October 29, 2022. Roof of Physics Building, Yangzhou University. Photoed by phon
 
 ## Listen to the radio
 
-*I love the stars when I was young.*
+*I love the stars when I was young.sssssss*
 
-<center>
+
 <img src="/images/hobbies/star/star--telescope--1.jpg" width="240" height="320">
-<center>
 
 
-<center>
+
+
 December 6, 2021. Room 301, Physics Building, Yangzhou University.
-<center>
+
 
 <br>
 <div class="third">
@@ -51,9 +51,9 @@ December 6, 2021. Room 301, Physics Building, Yangzhou University.
 <img src="/images/hobbies/star/star--Jupiter--1.jpg">
 </div>
 
-<center>
+
 October 29, 2022. Roof of Physics Building, Yangzhou University. Photoed by phone connected with telescope.
-<center>
+
 
 
 
