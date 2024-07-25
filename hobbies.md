@@ -15,9 +15,9 @@ title: Hobbies
 <center>
 <img src="/images/hobbies/star/star--telescope--1.jpg" width="240" height="320">
 <center>
---
+
 <center>
-December 6, 2021. Room 301, Physics Building, Yangzhou University.
+<br>December 6, 2021. Room 301, Physics Building, Yangzhou University.
 <center>
 --
 <div class="third">
