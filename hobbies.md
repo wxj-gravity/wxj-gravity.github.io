@@ -13,20 +13,23 @@ title: Hobbies
 *I love the stars when I was young.*
 
 <center>
-<img src="/images/hobbies/star/star--telescope--1.jpg" width="360" height="480">
+<img src="/images/hobbies/star/star--telescope--1.jpg" width="240" height="320">
 <center>
 
 <center>
-Taken on December 6th, 2021 in Yangzhou University
+Taken on December 6th, 2021 in Room 301 of Yangzhou University
 <center>
   
 <div class="third">
-<img src="/images/hobbies/star/star--telescope--1.jpg">
 <img src="/images/hobbies/star/star--friends--1.jpg">
 <img src="/images/hobbies/star/star--Saturn--1.jpg">
 <img src="/images/hobbies/star/star--Jupiter--1.jpg">
 </div>
-<br>Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I am a member of the Swimming Team at Fuzhou University, where I meet many sincere friends. I have reached **China National Second-level athlete Standard** in 50m breaststroke and won **Five Gold Medals** during my 10-year swimming career. Recently, I am also keen on surfing.
+
+<center>
+Taken on October 29th, 2022 on the rooftop of the Physics Building at Yangzhou University
+<center>
+
 
 ## Listen to the radio
 
