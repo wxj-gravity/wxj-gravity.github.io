@@ -14,8 +14,8 @@ title: Arts
 
 <center>
 <div class="second">
-<img src="/arts/universe/people--QTW--1.jpg" width="240" height="320">
-<img src="/arts/universe/people--GQQ--1.jpg" width="240" height="320">
+<img src="/arts/people/people--QTW--1.jpg" width="270" height="360">
+<img src="/arts/people/people--GQQ--1.jpg" width="270" height="360">
 </div>
 </center>
 
@@ -26,8 +26,8 @@ title: Arts
 
 <center>
 <div class="second">
-<img src="/arts/universe/universe--1.jpg" width="240" height="320">
-<img src="/arts/universe/universe--3.jpg" width="240" height="320">
+<img src="/arts/universe/universe--1.jpg" width="270" height="360">
+<img src="/arts/universe/universe--3.jpg" width="270" height="360">
 </div>
 </center>
 
