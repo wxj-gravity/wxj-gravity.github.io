@@ -12,6 +12,13 @@ title: Arts
 
 ### The people
 
+<center>
+<div class="second">
+<img src="/arts/universe/people--QTW--1.jpg" width="120" height="160">
+<img src="/arts/universe/people--GQQ--1.jpg" width="120" height="160">
+</div>
+</center>
+
 
 <hr>
 
@@ -25,6 +32,3 @@ title: Arts
 </center>
 
 
-<hr>
-
-### The Nature
