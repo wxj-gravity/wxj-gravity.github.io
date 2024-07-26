@@ -18,7 +18,7 @@ title: Arts
 ### The Universe
 
 <center>
-<div class="third">
+<div class="second">
 <img src="/arts/universe/universe--1.jpg">
 <img src="/arts/universe/universe--3.jpg">
 </div>
