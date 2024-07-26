@@ -4,20 +4,20 @@ permalink: /arts/index.html
 title: Arts
 ---
 
-> If you are willing, I would call it art.
+## If you are willing, I would call it art.
 
-### Notice: These photos are from the Internet.
-
-<hr>
-
-## The people
-
+*Notice: These photos are from the Internet.*
 
 <hr>
 
-## The Universe
+### The people
 
 
 <hr>
 
-## The Nature
+### The Universe
+
+
+<hr>
+
+### The Nature
