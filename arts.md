@@ -19,7 +19,7 @@ title: Arts
 
 <center>
 <div class="third">
-<img src="/arts/universe/universe--1.jpg">  <img src="/arts/universe/universe--2.jpg">  <img src="/arts/universe/universe--3.jpg">
+<img src="/arts/universe/universe--1.jpg">  <img src="/arts/universe/universe--3.jpg">
 </div>
 </center>
 
