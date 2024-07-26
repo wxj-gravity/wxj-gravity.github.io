@@ -14,6 +14,19 @@ title: Arts
 
 <center>
 <div class="second">
+<img src="/arts/people/people--debiao1.jpg" width="270" height="360">
+<img src="/arts/people/people--debiao2.jpg" width="270" height="360">
+</div>
+</center>
+
+<center>
+德彪，不如我们重新来过
+</center>   
+
+<br>
+
+<center>
+<div class="second">
 <img src="/arts/people/people--QTW--1.jpg" width="270" height="360">
 <img src="/arts/people/people--GQQ--1.jpg" width="270" height="360">
 </div>
