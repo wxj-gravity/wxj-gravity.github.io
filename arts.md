@@ -11,6 +11,6 @@ title: Arts
 ### The people
 
 
-
+<hr>
 
 ### The Universe
