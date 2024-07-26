@@ -14,7 +14,7 @@ I am a postdoctorial fellow in Astronomy Department, Wuhan University. My resear
 
 My publication list can be found in [inspirehep](https://inspirehep.net/authors/1899373?ui-citation-summary=true).
 
-If you are interested in any aspect of me, do not hesitate to contact me at - *xijingwang01@163.com*.
+If you are interested in any aspect of me, do not hesitate to contact me at-*xijingwang01@163.com*.
 
 ## Educational Experience 
 
