@@ -19,8 +19,8 @@ title: Arts
 
 <center>
 <div class="second">
-<img src="/arts/universe/universe--1.jpg" width="240" height="320">
-<img src="/arts/universe/universe--3.jpg" width="240" height="320">
+<img src="/arts/universe/universe--1.jpg" width="120" height="160">
+<img src="/arts/universe/universe--3.jpg" width="120" height="160">
 </div>
 </center>
 
