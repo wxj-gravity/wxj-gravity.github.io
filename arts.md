@@ -19,7 +19,7 @@ title: Arts
 </div>
 </center>
 
-
+<br>
 <hr>
 
 ### The Universe
@@ -31,4 +31,8 @@ title: Arts
 </div>
 </center>
 
+<br>
+<hr>
 
+
+### The object
