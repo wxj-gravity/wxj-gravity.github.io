@@ -63,7 +63,7 @@ title: Arts
 
 <center>
 <div class="second">
-<img src="/arts/people/object--radio--1.jpg" width="270" height="360">
-<img src="/arts/people/object--radio--2.jpg" width="270" height="360">
+<img src="/arts/object/object--radio--1.jpg" width="270" height="360">
+<img src="/arts/object/object--radio--2.jpg" width="270" height="360">
 </div>
 </center>
