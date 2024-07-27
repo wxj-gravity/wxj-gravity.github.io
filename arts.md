@@ -23,6 +23,17 @@ title: Arts
 德彪，不如我们重新来过
 </center>   
 
+
+<br>
+
+<center>
+<div class="second">
+<img src="/arts/people/people--GX--1.jpg" width="270" height="360">
+<img src="/arts/people/people--GX--2.jpg" width="270" height="360">
+</div>
+</center>
+
+
 <br>
 
 <center>
@@ -49,3 +60,10 @@ title: Arts
 
 
 ### The object
+
+<center>
+<div class="second">
+<img src="/arts/people/object--radio--1.jpg" width="270" height="360">
+<img src="/arts/people/object--radio--2.jpg" width="270" height="360">
+</div>
+</center>
