@@ -5,52 +5,26 @@ title: Publications
 
 ---
 
-
+Lastest Update: Aug 31, 2024
 
 For full list of my papers, see the below, also check [inspire](https://inspirehep.net/authors/1899373?ui-citation-summary=true).
 
 <hr>
 
-## 2024
+## Selected Papers
 
-- <span style="color:blue;">*Images of hairy Reissner–Nordström black hole illuminated by static accretions*</span>,<br>Yuan Meng, Xiao-Mei Kuang
-, **Xi-Jing Wang**, Bin Wang, Jian-Pin Wu. <br>Published in: [Eur.Phys.J.C 84 (2024) 3, 305](https://link.springer.com/article/10.1140/epjc/s10052-024-12686-w). arXiv: [2401.05634](https://arxiv.org/abs/2401.05634).
+- <span style="color:blue;">*Using shadow of black hole to examine the energy exchange between axion matter and rotating black hole*</span>,<br>Xiao-Mei Kuang, Yuan Meng, Eleftherios Papantonopoulos
+, **Xi-Jing Wang**. <br>Published in: [Phys.Rev.D Letter accepted]. arXiv: [2406.11932](https://arxiv.org/abs/2406.11932).
 
-## 2023
-
-- <span style="color:blue;">*Gravitational lensing effects of black hole with conformally coupled scalar hair*</span>,<br>Qi Qi, Yuan Meng, **Xi-Jing Wang**, Xiao-Mei Kuang. <br>Published in: [Eur.Phys.J.C 83 (2023) 11, 1043](https://link.springer.com/article/10.1140/epjc/s10052-023-12233-z).
 
 - <span style="color:blue;">*Black holes with scalar hair: Extending from and beyond the Schwarzschild solution*</span>,<br>**Xi-Jing Wang**, Guoyang Fu, Peng Liu, Xiao-Mei Kuang, Bin Wang, Jian-Pin Wu. <br>Published in: [Phys.Rev.D 108, 124077 (2023)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.124077). arXiv: [2307.13440](https://arxiv.org/abs/2307.13440).
-
-- <span style="color:blue;">*Images from disk and spherical accretions of hairy Schwarzschild black holes*</span>,<br>Yuan Meng, Xiao-Mei Kuang
-, **Xi-Jing Wang**, Bin Wang, Jian-Pin Wu. <br>Published in: [Phys.Rev.D 108, 064013 (2023)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.064013). arXiv: [2306.10459](https://arxiv.org/abs/2306.10459).
-
-- <span style="color:blue;">*Shadow revisiting and weak gravitational lensing with Chern-Simons modification*</span>,<br>Yuan Meng, Xiao-Mei Kuang
-, **Xi-Jing Wang**, Jian-Pin Wu. <br>Published in: [Phys.Lett.B (2023) 137940)](https://www.sciencedirect.com/science/article/pii/S0370269323002745?via%3Dihub). arXiv: [2305.04210](https://arxiv.org/abs/2305.04210).
 
 - <span style="color:blue;">*Rings and images of Horndeski hairy black hole illuminated by various thin accretions*</span>,<br>**Xi-Jing Wang**, Xiao-Mei Kuang
 , Yuan Meng, Bin Wang, Jian-Pin Wu. <br>Published in: [Phys.Rev.D 107, 124052 (2023)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.124052). arXiv: [2304.10015](https://arxiv.org/abs/2304.10015).
 
-## 2022
-
-- <span style="color:blue;">*Holographic superfluid with gauge–axion coupling*</span>,<br>Yan Liu, **Xi-Jing Wang**, Jian-Pin Wu, Xin Zhang. <br>Published in: [Eur.Phys.J.C 83 (2023) 8, 748](https://link.springer.com/article/10.1140/epjc/s10052-023-11918-9). arXiv: [2212.01986](https://arxiv.org/abs/2212.01986).
-
-- <span style="color:blue;">*Transport properties in the Horndeski holographic two-currents model*</span>,<br>Dan Zhang, Guoyang Fu, **Xi-Jing Wang**, Qiyuan Pan, Jian-Pin Wu. <br>Published in: [Eur.Phys.J.C 83 (2023) 4, 316](https://link.springer.com/article/10.1140/epjc/s10052-023-11444-8). arXiv: [2211.07074](https://arxiv.org/abs/2211.07074).
-
-- <span style="color:blue;">*Transport properties of a 3-dimensional holographic effective theory with gauge-axion coupling*</span>,<br>Yi-Lin Li, **Xi-Jing Wang**, Guoyang Fu, Jian-Pin Wu. <br>Published in: [Phys.Lett.B 829 (2022) 137124](https://www.sciencedirect.com/science/article/pii/S0370269322002581?via%3Dihub). arXiv: [2205.00227](https://arxiv.org/abs/2205.00227).
-
-- <span style="color:blue;">*A novel holographic quantum phase transition and butterfly velocity*</span>,<br>Guoyang Fu, **Xi-Jing Wang**, Peng Liu, Dan Zhang, Xiao-Mei Kuang, Jian-Pin Wu. <br>Published in: [JHEP 04 (2022) 148](https://link.springer.com/article/10.1007/JHEP04(2022)148). arXiv: [2202.01495](https://arxiv.org/abs/2202.01495).
-
-- <span style="color:blue;">*Alternating current conductivity and superconducting properties of a holographic effective model with broken translations*</span>,<br>Yan Liu, **Xi-Jing Wang**, Jian-Pin Wu, Xin Zhang. <br>Published in: [Eur.Phys.J.C 82 (2022) 5, 478]([https://link.springer.com/article/10.1140/epjc/s10052-023-11918-9](https://link.springer.com/article/10.1140/epjc/s10052-022-10416-8)). arXiv: [2201.06065](https://arxiv.org/abs/2201.06065).
-
-
-
-## 2021
 
 - <span style="color:blue;">*Holographic phonons by gauge-axion coupling*</span>,<br>**Xi-Jing Wang**, Wei-Jia Li. <br>Published in: [JHEP 07 (2021) 131](https://link.springer.com/article/10.1007/JHEP07(2021)131). arXiv: [2105.07225](https://arxiv.org/abs/2105.07225).
 
-
-## 2019
 
 - <span style="color:blue;">*AC charge transport in holographic Horndeski gravity*</span>,<br>**Xi-Jing Wang**, Hai-Shan Liu, Wei-Jia Li. <br>Published in: [Eur.Phys.J.C 79 (2019) 11, 932](https://link.springer.com/article/10.1140/epjc/s10052-019-7460-6). arXiv: [1909.00224](https://arxiv.org/abs/1909.00224).
 
