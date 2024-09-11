@@ -32,6 +32,7 @@ If you are interested in any aspect of me, do not hesitate to contact me at-*xij
 
 
 ## News and Updates
+ For my work and daily life, click(https://wxj-gravity.github.io//blogs/)
 
 - **July 2024:** Become a postdoctorial fellow in Astronomy Department, Wuhan University
 - **July 21, 2024:** Create this homepage.
