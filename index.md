@@ -10,7 +10,7 @@ layout: page
 
 Here is **Xi-Jing Wang (王熹景)**.
 
-I am a postdoctorial fellow in Astronomy Department, Wuhan University. My research interests are gravity and black hole physics, including but not limited to black hole shadow/images and their applications, hairy black holes, quasi-normal modes, as well as any topics that interest me. 
+I am a postdoctorial fellow in Department of Astronomy, Wuhan University. My research interests are gravity and black hole physics, including but not limited to black hole shadow/images and their applications, hairy black holes, quasi-normal modes, as well as any topics that interest me. 
 
 My publication list can be found in [inspirehep](https://inspirehep.net/authors/1899373?ui-citation-summary=true).
 
@@ -25,7 +25,7 @@ If you are interested in any aspect of me, do not hesitate to contact me at-*xij
 
 ## Work Experience
 
-- **July 2024 - Now:** Astronomy Department, Wuhan University
+- **July 2024 - Now:** Department of Astronomy, Wuhan University
   Postdoctorial Fellow. Host Researcher: Prof. [Kai Liao](https://physics.whu.edu.cn/info/1272/6656.htm)
   
 ---
@@ -34,7 +34,7 @@ If you are interested in any aspect of me, do not hesitate to contact me at-*xij
 ## News and Updates
  For my work and daily life, click [**BLOGS**](https://wxj-gravity.github.io//blogs/)
 
-- **July 2024:** Become a postdoctorial fellow in Astronomy Department, Wuhan University
+- **July 2024:** Become a postdoctorial fellow in Department of Astronomy, Wuhan University
 - **July 21, 2024:** Create this homepage.
 
 
