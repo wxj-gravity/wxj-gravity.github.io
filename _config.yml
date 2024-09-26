@@ -39,15 +39,15 @@ links:
   - title: About Me
     url: /
   - title: Publications
-    url: /publications/
+    url: publications/
   - title: Hobbies
-    url: /hobbies/
+    url: hobbies/
   - title: Arts
-    url: /arts/
+    url: arts/
   - title: Blogs
-    url: /blogs/
+    url: blogs/
   - title: Essays
-    url: /essays/
+    url: essays/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
