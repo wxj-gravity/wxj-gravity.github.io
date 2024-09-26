@@ -11,6 +11,7 @@ title: Blogs
 - **2024年9月26日** <br>某人云：“言当以工作为主，勿作他念，更不可口造恶业，出语方人云云。”
 
 - **2024年9月17日** <br>范大将军怒斥修改引力。作者：ChatGpt。
+ <br>“广义相对论蛮好的，你把它修改了干什么你告诉我。”
  <center>
  <img src="/blogs/blog-20240917-1.jpg" width="640" height="720">
  </center>
@@ -27,7 +28,11 @@ title: Blogs
 
 - **2024年8月19日** <br>出发前往武汉，准备报到，办理入站。
 
-- **2024年8月9日—8月16日** <br>新疆7日游。[姜眠《我的歌声里》@QQ音乐](https://c6.y.qq.com/base/fcgi-bin/u?__=DA7z0kYI5441)。
+- **2024年8月9日—8月16日** <br>新疆7日游。跟团游，行程很紧凑。
+<center>
+<img src="/blogs/blog-20240809.jpg" width="320" height="480">
+</center>
+<br>[姜眠《我的歌声里》@QQ音乐](https://c6.y.qq.com/base/fcgi-bin/u?__=DA7z0kYI5441)。
 
 - **2024年7月24日** <br>开始学习引力透镜。
 
