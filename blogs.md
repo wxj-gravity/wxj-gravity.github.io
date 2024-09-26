@@ -8,7 +8,7 @@ title: Blogs
 
 ---
 
-- **2024年8月9日-8月16日** <br>新疆7日游。[姜眠《我的歌声里》@QQ音乐](https://c6.y.qq.com/base/fcgi-bin/u?__=DA7z0kYI5441)。
+- **2024年8月9日—8月16日** <br>新疆7日游。[姜眠《我的歌声里》@QQ音乐](https://c6.y.qq.com/base/fcgi-bin/u?__=DA7z0kYI5441)。
 
 - **2024年7月24日** <br>开始学习引力透镜。
 
