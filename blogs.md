@@ -30,7 +30,7 @@ title: Blogs
 
 - **2024年8月9日—8月16日** <br>新疆7日游。跟团游，行程很紧凑。
 <center>
-<img src="/blogs/blog-20240809.jpg" width="320" height="480">
+<img src="/blogs/blog-20240809.jpg" width="600" height="600">
 </center>
 <br>[姜眠《我的歌声里》@QQ音乐](https://c6.y.qq.com/base/fcgi-bin/u?__=DA7z0kYI5441)。
 
