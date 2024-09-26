@@ -4,4 +4,4 @@ permalink: /blogs/index.html
 title: Blogs
 ---
 
-## This module is currently being updated.
+# 正经人谁写日记啊
