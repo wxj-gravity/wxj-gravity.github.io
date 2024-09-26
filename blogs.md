@@ -10,10 +10,10 @@ title: Blogs
 
 - **2024年9月17日** <br>范大将军怒斥修改引力。
  <center>
-<img src="/blogs/blog-20240917-1.jpg" width="240" height="320">
+<img src="/blogs/blog-20240917-1.jpg" width="320" height="480">
 </center>
 <center>
-<img src="/blogs/blog-20240917-2.jpg" width="240" height="320">
+<img src="/blogs/blog-20240917-2.jpg" width="480" height="640">
 </center>
 
 - **2024年8月29日** <br>从湖大到武大也就1个小时的车程，但我走了11年。
