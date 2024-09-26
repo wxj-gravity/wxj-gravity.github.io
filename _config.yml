@@ -44,10 +44,10 @@ links:
     url: /hobbies/
   - title: Arts
     url: /arts/
-  - title: Essays
-    url: /essays/
   - title: Blogs
     url: /blogs/
+  - title: Essays
+    url: /essays/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
