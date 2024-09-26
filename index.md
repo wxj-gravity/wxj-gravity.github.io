@@ -8,9 +8,9 @@ layout: page
 
 <img src="https://wxj-gravity.github.io/caihanlin.png" class="floatpic" width="360" height="480">
 
-Here is **Xi-Jing Wang (王熹景)**.
+**Xi-Jing Wang (王熹景)**.
 
-I am a postdoctorial fellow in Department of Astronomy, Wuhan University. My research interests are gravity and black hole physics, including but not limited to black hole shadow/images and their applications, hairy black holes, quasi-normal modes, as well as any topics that interest me. 
+I am a postdoctorial fellow in Department of Astronomy, Wuhan University. My research interests are gravity and black hole physics, including but not limited to black hole shadow/images, hairy black holes, holographic duality in condensed matter physics and hydrodynamics. Currently, I am focusing on gravitational lensing and its applications in cosmology and astrophysics.
 
 My publication list can be found in [inspirehep](https://inspirehep.net/authors/1899373?ui-citation-summary=true).
 
