@@ -10,7 +10,7 @@ layout: page
 
 **Xi-Jing Wang (王熹景)**
 
-I am a postdoctorial fellow in Department of Astronomy, Wuhan University. My research interests are gravity and black hole physics, including black hole shadow/images, hairy black holes, holographic duality in condensed matter physics and hydrodynamics. Currently, I am focusing on gravitational lensing and its applications in cosmology and astrophysics.
+I am a postdoctorial fellow in Department of Astronomy, Wuhan University. My research interests are gravity and black hole physics. During my pursuit of the degrees, I mainly studied hairy black holes and its black hole shadow/images, and holographic duality in condensed matter physics and hydrodynamics. Currently, I am focusing on gravitational lensing and its applications in cosmology and astrophysics.
 
 My publication list can be found in [inspirehep](https://inspirehep.net/authors/1899373?ui-citation-summary=true).
 
