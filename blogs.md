@@ -11,7 +11,7 @@ title: Blogs
 <center>
 <div class="second">
 <img src="/blogs/blog-20241201-1.jpg" width="270" height="270">
-<img src="/blogs/blog-20241201-2.jpg" width="270" height="270">
+<img src="/blogs/blog-20241201-2.jpg" width="260" height="270">
 </div>
 </center>
 
