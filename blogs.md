@@ -7,6 +7,15 @@ title: Blogs
 # “正经人谁写日记啊”
 
 ---
+- **2024年12月01日** <br>人生需要Passion(Python)。
+ <center>
+ <img src="/blogs/blog-20241201-1.jpg" width="360" height="360">
+ </center>
+ <center>
+ <img src="/blogs/blog-20241201-2.jpg" width="360" height="360">
+ </center>
+
+
 - **2024年11月10日** <br>在天、地、人等多方的见证下，于2024年11月10日（甲辰年十月初十）正式完婚。
 <center>
 <img src="/blogs/blog-20241110.jpg" width="360" height="360">
@@ -16,7 +25,7 @@ title: Blogs
 
 - **2024年9月26日** <br>某人云：“言当以工作为主，勿作他念，更不可口造恶业，出语方人云云。”
 
-- **2024年9月17日** <br>范大将军怒斥修改引力。作者：ChatGpt。
+- **2024年9月17日** <br>范大将军怒斥修改引力。作者：ChatGPT。
  <br>“广义相对论蛮好的，你把它修改了干什么你告诉我。”
  <center>
  <img src="/blogs/blog-20240917-1.jpg" width="640" height="720">
