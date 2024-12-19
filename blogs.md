@@ -7,7 +7,7 @@ title: Blogs
 # “正经人谁写日记啊”
 
 ---
-- **2024年12月01日** <br>人生需要Passion(Python)。
+- **2024年12月01日** <br>人生需要Passion (Python)。
  <center>
  <img src="/blogs/blog-20241201-1.jpg" width="360" height="360">
  </center>
