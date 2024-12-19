@@ -8,12 +8,13 @@ title: Blogs
 
 ---
 - **2024年12月01日** <br>人生需要Passion (Python)。
- <center>
- <img src="/blogs/blog-20241201-1.jpg" width="360" height="360">
- </center>
- <center>
- <img src="/blogs/blog-20241201-2.jpg" width="360" height="360">
- </center>
+<center>
+<div class="second">
+<img src="/blogs/blog-20241201-1.jpg" width="270" height="270">
+<img src="/blogs/blog-20241201-2.jpg" width="270" height="270">
+</div>
+</center>
+
 
 
 - **2024年11月10日** <br>在天、地、人等多方的见证下，于2024年11月10日（甲辰年十月初十）正式完婚。
