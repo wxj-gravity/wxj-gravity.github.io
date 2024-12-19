@@ -7,7 +7,10 @@ title: Blogs
 # “正经人谁写日记啊”
 
 ---
-- **2024年12月01日** <br>人生需要Passion (Python)。
+- **2024年12月5日** <br>获得国家自然科学基金理论物理专款项目1项。
+
+
+- **2024年12月1日** <br>人生需要Passion (Python)。
 <center>
 <div class="second">
 <img src="/blogs/blog-20241201-1.jpg" width="270" height="270">
