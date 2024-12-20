@@ -47,8 +47,7 @@ title: Arts
 
 
 <center>
-<div class="second">
-<img src="/arts/people/yingyi.mp4">
+<video src="/arts/people/yingyi.mp4">
 </div>
 </center>
 
