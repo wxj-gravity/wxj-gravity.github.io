@@ -46,10 +46,11 @@ title: Arts
 <br>
 
 
-<center>
-<video src="/arts/people/yingyi.mp4">
-</div>
-</center>
+<video width="270" height="360" controls>
+  <source src="/arts/people/yingyi.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 <br>
 <hr>
