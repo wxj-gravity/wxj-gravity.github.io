@@ -45,6 +45,15 @@ title: Arts
 
 
 <br>
+
+<center>
+<video width="450" height="480" controls>
+<source src="/arts/people/yingyi.mp4" type="video/mp4">
+</video>
+</center>
+
+
+<br>
 <hr>
 
 ### The Universe
