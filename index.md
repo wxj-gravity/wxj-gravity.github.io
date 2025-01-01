@@ -26,7 +26,7 @@ If you are interested in any aspect of me, do not hesitate to contact me at *xij
 ## Work Experience
 
 - **July 2024 - Now:** Department of Astronomy, Wuhan University
-  Postdoctorial Fellow. Host Researcher: Prof. [Kai Liao](https://physics.whu.edu.cn/info/1272/6656.htm)
+  Postdoctorial Fellow. Host Researcher: Prof. [Kai Liao](https://jszy.whu.edu.cn/liaokai_lensing/zh_CN/index.htm)
   
 ---
 
