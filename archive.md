@@ -15,4 +15,4 @@ title: Archive
 
 ---
 
-- [狂飙](./archive/混剪.md)
+- [狂飙](./archive/混剪/混剪.md)
