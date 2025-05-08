@@ -9,7 +9,7 @@ title: Blogs
 ---
 - **2025年05月01日** <br>携媳妇走进健身房。
 <center>
-<img src="/blogs/blog-20250501.jpg" width="360" height="360">
+<img src="/blogs/blog-20250501.jpg" width="320" height="360">
 </center>
 
 
