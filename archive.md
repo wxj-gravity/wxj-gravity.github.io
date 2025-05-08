@@ -8,4 +8,4 @@ title: Archive
 
 ---
 
-- [腿](./archive/健身.md)
+- [腿](./archive/健身/健身.md)
