@@ -18,10 +18,10 @@ If you are interested in any aspect of me, do not hesitate to contact me at *xij
 
 ## Educational Experience 
 
-- **Sep 2020 - June 2024:** Physics Department, Yangzhou University (PhD)
-- **Sep 2017 - June 2020:** Physics Department, Dalian University of Technology (MSc)
-- **Sep 2013 - June 2017:** Physics Department, Hubei University (BSc)
-- **Sep 2010 - June 2013:** Haicheng Senior Middle School in Liaoning Province 
+- **Sep 2020 - June 2024:** Physics Department, Yangzhou University (PhD).  Supervisor: Prof. [Jian-Pin Wu](https://wlxy.yzu.edu.cn/info/1091/7504.htm)
+- **Sep 2017 - June 2020:** Physics Department, Dalian University of Technology (MSc). Supervisor: Prof. [Wei-Jia Li](https://faculty.dlut.edu.cn/liweijia/zh_CN/index.htm)
+- **Sep 2013 - June 2017:** Physics Department, Hubei University (BSc).
+- **Sep 2010 - June 2013:** Haicheng Senior Middle School in Liaoning Province .
 
 ## Work Experience
 
