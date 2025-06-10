@@ -8,6 +8,10 @@ title: Blogs
 
 ---
 
+- **2025年06月09日** <br如图所示。
+<center>
+<img src="/blogs/blog-20250609.jpg" width="320" height="360">
+</center>
 
 - **2025年06月06日** <br>天雨虽大，不润无根之草。
  <br>道法虽宽，只渡有缘之人。
