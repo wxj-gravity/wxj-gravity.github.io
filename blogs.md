@@ -7,9 +7,9 @@ title: Blogs
 # “正经人谁写日记啊”
 
 ---
-- **2025年06月26日** <br>首次解锁杠铃深蹲。空杆，20kg，30kg，40kg，直到视频中的50kg。此前已解锁杠铃平板卧推，30kg做组。
+- **2025年06月26日** <br>首次解锁杠铃深蹲。空杆，30kg，40kg，直到视频中的50kg。此前已解锁杠铃平板卧推，30kg做组。
 <center>
-<video width="450" height="480" controls>
+<video width="420" height="420" controls>
 <source src="/blogs/blog-20250626.mp4" type="video/mp4">
 </video>
 </center>
