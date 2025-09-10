@@ -43,13 +43,7 @@ title: Arts
 </div>
 </center>
 
-<br>
 
-<center>
-<video width="450" height="480" controls>
-<source src="/arts/people/babixiaofeimi-2.mp4" type="video/mp4">
-</video>
-</center>
 
 <br>
 
