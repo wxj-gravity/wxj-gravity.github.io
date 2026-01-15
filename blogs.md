@@ -8,6 +8,11 @@ title: Blogs
 
 ---
 
+- **2026年01月01日** <br>2026新年第一练。
+<center>
+<img src="/blogs/blog-20260101.jpg" width="340" height="340">
+</center>
+
 - **2025年12月31日** <br>自2025年5月31日以来开始健身，直到本年度最后一天，健身数据如下：
 <center>
 <img src="/blogs/blog-20251231.jpg" width="340" height="340">
