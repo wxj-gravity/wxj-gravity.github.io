@@ -43,7 +43,13 @@ title: Arts
 </div>
 </center>
 
+<br>
 
+<center>
+<video width="450" height="480" controls>
+<source src="/arts/people/laopaijianmei.mp4" type="video/mp4">
+</video>
+</center>
 
 <br>
 
